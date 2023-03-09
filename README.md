@@ -16,7 +16,7 @@ https://virpil-controls.eu/vpc-constellation-alpha-prime-l.html
 https://virpil-controls.eu/vpc-constellation-alpha-prime-r.html
 https://virpil-controls.eu/vpc-mongoost-50cm-base.html
 Maybe standard alpha prime grips fits, but I don’t own them.
-* Thrustmaster T300RS
+* Thrustmaster T300RS with ferrari addon wheel.
 * Fanatec clubsport pedals v2.
 
 ## Software
