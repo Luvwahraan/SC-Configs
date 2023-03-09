@@ -1,13 +1,13 @@
 <ActionMaps>
  <ActionProfiles version="1" optionsVersion="2" rebindVersion="2" profileName="default">
-  <options type="keyboard" instance="1" Product="Clavier  {6F1D2B61-D5A0-11CF-BFC7-444553540000}">
+  <options type="keyboard" instance="1">
    <fps_view_pitch invert="0"/>
   </options>
-  <options type="gamepad" instance="1" Product="Controller (Gamepad)">
+  <options type="gamepad" instance="1">
    <flight_view exponent="1"/>
   </options>
-  <options type="joystick" instance="1" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
-  <options type="joystick" instance="2" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="1"/>
+  <options type="joystick" instance="2"/>
   <options type="joystick" instance="3"/>
   <options type="joystick" instance="4"/>
   <options type="joystick" instance="5"/>
