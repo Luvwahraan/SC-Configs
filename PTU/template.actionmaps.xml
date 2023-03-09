@@ -8,12 +8,6 @@
   </options>
   <options type="joystick" instance="1"/>
   <options type="joystick" instance="2"/>
-  <options type="joystick" instance="3"/>
-  <options type="joystick" instance="4"/>
-  <options type="joystick" instance="5"/>
-  <options type="joystick" instance="6"/>
-  <options type="joystick" instance="7"/>
-  <options type="joystick" instance="8"/>
   <modifiers />
   <actionmap name="seat_general">
    <action name="v_eject">

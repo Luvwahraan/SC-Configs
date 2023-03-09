@@ -319,6 +319,7 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="1" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="v_strafe_lateral"/>
                         </action-set>
                     </container>
                 </axis>
@@ -326,6 +327,7 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="2" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="v_strafe_vertical"/>
                         </action-set>
                     </container>
                 </axis>
@@ -371,7 +373,7 @@
                         </action-set>
                     </container>
                 </button>
-                <button description="attack_group1 scanning_trigger_scan" id="4">
+                <button description="attack_group2 scanning_trigger_scan" id="4">
                     <container type="basic">
                         <action-set>
                             <remap button="128" vjoy="1"/>
@@ -384,7 +386,7 @@
                         </activation-condition>
                     </container>
                 </button>
-                <button description="attack_group2" id="5"/>
+                <button description="" id="5"/>
                 <button description="" id="6">
                     <container type="basic">
                         <action-set>
@@ -396,14 +398,14 @@
                     <container type="basic">
                         <action-set>
                             <remap button="7" vjoy="1"/>
-                            <description description=""/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_cycle_selection_reset" id="8">
+                <button description="v_shield_reset_level" id="8">
                     <container type="basic">
                         <action-set>
                             <remap button="110" vjoy="1"/>
+                            <description description="v_shield_reset_level"/>
                         </action-set>
                     </container>
                 </button>
@@ -417,10 +419,12 @@
                                 <actions>
                                     <pause duration="0.01"/>
                                     <vjoy input-id="9" input-type="button" value="True" vjoy-id="1"/>
+                                    <pause duration="0.01"/>
                                     <vjoy input-id="9" input-type="button" value="False" vjoy-id="1"/>
                                 </actions>
                             </macro>
                             <remap button="9" vjoy="1"/>
+                            <description description="v_shield_raise_level_forward"/>
                         </action-set>
                     </container>
                 </button>
@@ -434,19 +438,16 @@
                                 <actions>
                                     <pause duration="0.01"/>
                                     <vjoy input-id="12" input-type="button" value="True" vjoy-id="1"/>
+                                    <pause duration="0.01"/>
                                     <vjoy input-id="12" input-type="button" value="False" vjoy-id="1"/>
                                 </actions>
                             </macro>
                             <remap button="12" vjoy="1"/>
+                            <description description="shield_raise_level_left"/>
                         </action-set>
                     </container>
                 </button>
                 <button description="shield_raise_level_back" id="11">
-                    <container type="basic">
-                        <action-set>
-                            <remap button="11" vjoy="1"/>
-                        </action-set>
-                    </container>
                     <container type="basic">
                         <action-set>
                             <macro>
@@ -456,9 +457,12 @@
                                 <actions>
                                     <pause duration="0.01"/>
                                     <vjoy input-id="11" input-type="button" value="True" vjoy-id="1"/>
+                                    <pause duration="0.01"/>
                                     <vjoy input-id="11" input-type="button" value="False" vjoy-id="1"/>
                                 </actions>
                             </macro>
+                            <description description="shield_raise_level_back"/>
+                            <remap button="11" vjoy="1"/>
                         </action-set>
                     </container>
                 </button>
@@ -472,10 +476,12 @@
                                 <actions>
                                     <pause duration="0.01"/>
                                     <vjoy input-id="10" input-type="button" value="True" vjoy-id="1"/>
+                                    <pause duration="0.01"/>
                                     <vjoy input-id="10" input-type="button" value="False" vjoy-id="1"/>
                                 </actions>
                             </macro>
                             <remap button="10" vjoy="1"/>
+                            <description description="shield_raise_level_right"/>
                         </action-set>
                     </container>
                 </button>
@@ -497,6 +503,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="92" vjoy="1"/>
+                            <description description="toggle_quantum_mode"/>
                         </action-set>
                     </container>
                 </button>
@@ -504,6 +511,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="25" vjoy="1"/>
+                            <description description="v_toggle_vtol"/>
                         </action-set>
                     </container>
                 </button>
@@ -511,6 +519,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="26" vjoy="1"/>
+                            <description description="v_ifcs_toggle_vector_decoupling"/>
                         </action-set>
                     </container>
                 </button>
@@ -537,10 +546,11 @@
                         </action-set>
                     </container>
                 </button>
-                <button description="Reset capicitor assigment" id="23">
+                <button description="Reset capicitor" id="23">
                     <container type="basic">
                         <action-set>
                             <remap button="87" vjoy="1"/>
+                            <description description="v_capacitor_assignment_reset"/>
                         </action-set>
                     </container>
                 </button>
@@ -555,6 +565,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="88" vjoy="1"/>
+                            <description description="v_capacitor_assignment_weapon_max"/>
                         </action-set>
                     </container>
                 </button>
@@ -562,6 +573,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="90" vjoy="1"/>
+                            <description description="v_capacitor_assignment_engine_max"/>
                         </action-set>
                     </container>
                 </button>
@@ -569,14 +581,15 @@
                     <container type="basic">
                         <action-set>
                             <remap button="89" vjoy="1"/>
+                            <description description="v_capacitor_assignment_shield_max"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="invoke_ping" id="28">
+                <button description="ping" id="28">
                     <container type="basic">
                         <action-set>
                             <remap button="117" vjoy="1"/>
-                            <description description="invoke_ping"/>
+                            <description description="v_invoke_ping"/>
                         </action-set>
                     </container>
                 </button>
@@ -593,6 +606,7 @@
                                     <vjoy input-id="115" input-type="button" value="False" vjoy-id="1"/>
                                 </actions>
                             </macro>
+                            <description description="eva_brake"/>
                         </action-set>
                         <activation-condition rule="all">
                             <condition comparison="released" condition-type="joystick" device-guid="{C5E43560-AA26-11ED-8001-444553540000}" device-name="LEFT VPC ALPHA PRIME" id="3" input="button"/>
@@ -675,6 +689,7 @@
                                 <key extended="True" scan-code="54"/>
                                 <key extended="True" scan-code="56"/>
                             </map-to-keyboard>
+                            <description description="free_thirdperson_camera"/>
                         </action-set>
                     </container>
                 </button>
@@ -689,6 +704,8 @@
                         <action-set>
                             <remap button="34" vjoy="1"/>
                             <remap button="36" vjoy="1"/>
+                            <description description="v_space_brake"/>
+                            <description description="v_afterburner"/>
                         </action-set>
                     </container>
                 </button>
@@ -696,6 +713,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="34" vjoy="1"/>
+                            <description description="v_space_brake"/>
                         </action-set>
                     </container>
                 </button>
@@ -704,6 +722,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="36" vjoy="1"/>
+                            <description description="v_afterburner"/>
                         </action-set>
                     </container>
                 </button>
@@ -711,6 +730,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="36" vjoy="1"/>
+                            <description description="v_afterburner"/>
                         </action-set>
                     </container>
                 </button>
@@ -960,6 +980,9 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="4" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="v_roll"/>
+                            <description description="gp_movex"/>
+                            <description description="eva_roll"/>
                         </action-set>
                     </container>
                 </axis>
@@ -967,19 +990,23 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="5" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="eva_strafe_vertical"/>
+                            <description description="v_pitch"/>
+                            <description description="gp_movey"/>
                         </action-set>
                     </container>
                     <container type="basic">
                         <action-set>
                             <remap button="46" vjoy="1"/>
-                            <description description="turret recenter"/>
+                            <description description="sprint"/>
+                            <description description="turret_gyromode"/>
                         </action-set>
                         <virtual-button direction="anywhere" lower-limit="1.0" upper-limit="0.9"/>
                     </container>
                     <container type="basic">
                         <action-set>
                             <remap button="45" vjoy="1"/>
-                            <description description="turret gyro"/>
+                            <description description="turret_recenter"/>
                         </action-set>
                         <virtual-button direction="anywhere" lower-limit="-1.0" upper-limit="-0.99"/>
                     </container>
@@ -988,6 +1015,8 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="6" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="eva_strafe_lateral"/>
+                            <description description="v_yaw"/>
                         </action-set>
                     </container>
                     <container type="basic">
@@ -1045,6 +1074,7 @@
                     <container type="basic">
                         <action-set>
                             <remap axis="7" axis-scaling="1.0" axis-type="absolute" vjoy="1"/>
+                            <description description="v_salvage_beam_spacing_abs"/>
                         </action-set>
                     </container>
                     <container type="basic">
@@ -1070,10 +1100,11 @@
                     <container type="basic">
                         <action-set>
                             <remap button="1" vjoy="1"/>
+                            <description description="power_set_weapons_on"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="disable scanmode" id="2">
+                <button description="power_set_weapons_off" id="2">
                     <container type="basic">
                         <action-set>
                             <remap button="2" vjoy="1"/>
@@ -1110,21 +1141,16 @@
                         </action-set>
                     </container>
                 </button>
-                <button description="weapon_launch_missile" id="5">
+                <button description="v_weapon_toggle_launch_missile" id="5">
                     <container type="basic">
                         <action-set>
                             <remap button="5" vjoy="1"/>
-                        </action-set>
-                    </container>
-                    <container type="basic">
-                        <action-set>
-                            <remap button="128" vjoy="1"/>
-                            <description description="attack_group1"/>
+                            <description description="v_weapon_toggle_launch_missile"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="pc_interaction_mode" id="6">
-                    <container delay="0.2" type="smart_toggle">
+                <button description="" id="6">
+                    <container type="basic">
                         <action-set>
                             <remap button="6" vjoy="1"/>
                         </action-set>
@@ -1134,21 +1160,22 @@
                     <container type="basic">
                         <action-set>
                             <remap button="86" vjoy="1"/>
+                            <description description="turret_instant_zoom"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="shield_reset_level" id="8">
+                <button description="" id="8">
                     <container type="basic">
                         <action-set>
                             <remap button="8" vjoy="1"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="turret_combinedWeapons" id="9">
+                <button description="turret_change_firemode" id="9">
                     <container type="basic">
                         <action-set>
                             <remap button="71" vjoy="1"/>
-                            <description description="turret_combinedWeapons"/>
+                            <description description="turret_change_firemode"/>
                         </action-set>
                     </container>
                 </button>
@@ -1156,15 +1183,15 @@
                     <container type="basic">
                         <action-set>
                             <remap button="69" vjoy="1"/>
-                            <description description="turret_recente"/>
+                            <description description="turret_recenter"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="turret_gyromode prone" id="11">
+                <button description="prone" id="11">
                     <container type="basic">
                         <action-set>
                             <remap button="70" vjoy="1"/>
-                            <description description="turret_gyromode"/>
+                            <description description="prone"/>
                         </action-set>
                     </container>
                 </button>
@@ -1172,19 +1199,23 @@
                     <container timeout="0.5" type="chain">
                         <action-set>
                             <remap button="66" vjoy="1"/>
+                            <description description="v_enter_remote_turret_1"/>
                         </action-set>
                         <action-set>
                             <remap button="65" vjoy="1"/>
+                            <description description="v_enter_remote_turret_2"/>
                         </action-set>
                         <action-set>
                             <remap button="64" vjoy="1"/>
+                            <description description="v_enter_remote_turret_3"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="v_view_cycle_fwd" id="13">
+                <button description="holster" id="13">
                     <container type="basic">
                         <action-set>
                             <remap button="31" vjoy="1"/>
+                            <description description="holster"/>
                         </action-set>
                     </container>
                 </button>
@@ -1192,6 +1223,8 @@
                     <container type="basic">
                         <action-set>
                             <remap button="28" vjoy="1"/>
+                            <description description="selectMeleeWeapon"/>
+                            <description description="v_toggle_missile_mode"/>
                         </action-set>
                     </container>
                 </button>
@@ -1200,6 +1233,7 @@
                         <action-set>
                             <remap button="106" vjoy="1"/>
                             <description description="weapon_increase_max_missiles"/>
+                            <description description="selectprimary"/>
                         </action-set>
                     </container>
                 </button>
@@ -1208,14 +1242,16 @@
                         <action-set>
                             <remap button="119" vjoy="1"/>
                             <description description="v_weapon_cycle_aimmode"/>
+                            <description description="selectgadget"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="v_weapon_change_firemode" id="17">
+                <button description="v_weapon_change_firemode selectsecondary" id="17">
                     <container type="basic">
                         <action-set>
                             <remap button="118" vjoy="1"/>
                             <description description="v_weapon_change_firemode"/>
+                            <description description="selectsecondary"/>
                         </action-set>
                     </container>
                 </button>
@@ -1224,6 +1260,7 @@
                         <action-set>
                             <remap button="108" vjoy="1"/>
                             <description description="weapon_cycle_missile_fwd"/>
+                            <description description="selectpistol"/>
                         </action-set>
                     </container>
                 </button>
@@ -1231,6 +1268,8 @@
                     <container type="basic">
                         <action-set>
                             <remap button="19" vjoy="1"/>
+                            <description description="weapon_change_firemode"/>
+                            <description description="v_target_cycle_friendly_reset"/>
                         </action-set>
                     </container>
                 </button>
@@ -1238,28 +1277,34 @@
                     <container type="basic">
                         <action-set>
                             <remap button="20" vjoy="1"/>
+                            <description description="v_target_cycle_in_view_reset"/>
+                            <description description="weapon_auxiliary_action"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_cycle_all_fwd weapon_zeroing_increase" id="21">
+                <button description="v_target_cycle_friendly_fwd weapon_zeroing_increase" id="21">
                     <container type="basic">
                         <action-set>
                             <remap button="21" vjoy="1"/>
+                            <description description="weapon_zeroing_increase"/>
+                            <description description="v_target_cycle_friendly_fwd"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_cycle_all_fwd weapon_zeroing_decrease" id="22">
+                <button description="v_target_cycle_friendly_back weapon_zeroing_decrease" id="22">
                     <container type="basic">
                         <action-set>
                             <remap button="22" vjoy="1"/>
+                            <description description="weapon_zeroing_decrease"/>
+                            <description description="v_target_cycle_friendly_back"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="v_target_cycle_selection_reset" id="23">
+                <button description="v_target_cycle_all_reset" id="23">
                     <container type="basic">
                         <action-set>
                             <remap button="29" vjoy="1"/>
-                            <description description="v_target_cycle_selection_reset"/>
+                            <description description="v_target_cycle_all_reset"/>
                         </action-set>
                     </container>
                 </button>
@@ -1268,14 +1313,16 @@
                         <action-set>
                             <description description="target_cycle_hostile_fwd"/>
                             <remap button="17" vjoy="1"/>
+                            <description description="nextweapon"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_cycle_attacker_reset prone" id="25">
+                <button description="target_cycle_attacker_reset reload" id="25">
                     <container type="basic">
                         <action-set>
                             <remap button="14" vjoy="1"/>
                             <description description="target_cycle_attacker_reset"/>
+                            <description description="reload"/>
                         </action-set>
                     </container>
                 </button>
@@ -1284,22 +1331,25 @@
                         <action-set>
                             <remap button="82" vjoy="1"/>
                             <description description="target_cycle_hostile_reset"/>
+                            <description description="prevweapon"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_cycle_attacker_fwd weapon_change_firemode" id="27">
+                <button description="target_cycle_attacker_fwd weapon_melee" id="27">
                     <container type="basic">
                         <action-set>
                             <remap button="15" vjoy="1"/>
                             <description description="target_cycle_attacker_fwd"/>
+                            <description description="weapon_melee"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="target_pin_selected" id="28">
+                <button description="target_pin_selected v_salvage_toggle_beam_spacing_axis" id="28">
                     <container type="basic">
                         <action-set>
                             <remap button="18" vjoy="1"/>
                             <description description="target_pin_selected"/>
+                            <description description="v_salvage_toggle_beam_spacing_axis"/>
                         </action-set>
                     </container>
                 </button>
@@ -1307,6 +1357,10 @@
                     <container type="basic">
                         <action-set>
                             <remap button="78" vjoy="1"/>
+                            <description description="v_target_cycle_pinned_back"/>
+                            <description description="v_salvage_increase_beam_spacing"/>
+                            <description description="melee_AttackSyringeStab"/>
+                            <description description="pc_pit_inventory"/>
                         </action-set>
                     </container>
                 </button>
@@ -1314,6 +1368,8 @@
                     <container type="basic">
                         <action-set>
                             <remap button="77" vjoy="1"/>
+                            <description description="v_salvage_decrease_beam_spacing"/>
+                            <description description="v_target_cycle_pinned_fwd"/>
                         </action-set>
                     </container>
                 </button>
@@ -1321,10 +1377,11 @@
                     <container type="basic">
                         <action-set>
                             <remap button="13" vjoy="1"/>
+                            <description description="v_weapon_countermeasure_noise_launch"/>
                         </action-set>
                     </container>
                 </button>
-                <button description="turret_limiter_toggle" id="32">
+                <button description="" id="32">
                     <container type="basic">
                         <action-set>
                             <remap button="32" vjoy="1"/>
@@ -1335,6 +1392,7 @@
                     <container type="basic">
                         <action-set>
                             <remap button="124" vjoy="1"/>
+                            <description description="v_weapon_countermeasure_decoy_launch_panic"/>
                         </action-set>
                     </container>
                 </button>
