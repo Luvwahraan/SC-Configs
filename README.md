@@ -1,6 +1,8 @@
 # SC-Configs
 
-Left and right VPC Constellation Alpha Prime grips configs for Star Citizen.
+## What is it?
+
+Some left and right VPC Constellation Alpha Prime grips configs, for Star Citizen.
 
 ## Require:
 
