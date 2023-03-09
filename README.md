@@ -16,9 +16,7 @@ I have some specific hardware, with multiples pedals.
 * VPC Alpha prime with 50CM2 bases:
 
 https://virpil-controls.eu/vpc-constellation-alpha-prime-l.html
-
 https://virpil-controls.eu/vpc-constellation-alpha-prime-r.html
-
 https://virpil-controls.eu/vpc-mongoost-50cm-base.html
 
 Maybe standard alpha prime grips fits, but I don’t own them.
