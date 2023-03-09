@@ -29,7 +29,8 @@ Maybe standard alpha prime grips fits, but I don’t own them.
 
 https://github.com/jshafer817/vJoy
 * HidHide − hides physical joysticks, so games wont bind them instead virtuals
-* https://github.com/ViGEm/HidHide
+
+https://github.com/ViGEm/HidHide
 * JoystickGremlin − bindings and macro
 
 https://github.com/WhiteMagic/JoystickGremlin
