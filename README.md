@@ -46,6 +46,9 @@ Star Citizen’s config files, placed in adequat directory.
 or
 > … \\**PTU**\USER\Client\0\Profiles\default
 
+File *template.actionmaps.xml* isn’t usable in game.
+That’s some template to get all possible action names.
+
 ### JoystickGremlin
 
 Gremlin’s profiles.
