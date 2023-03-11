@@ -66,12 +66,12 @@
     <AXES_TABLE>
         <TABLE COLS="49" ROWS="13"/>
         <COL_CAPTION COL0="Num" COL1="Name" COL2="Value" COL3="Value(%)" COL4="Source" COL5="Port" COL6="Sub.Port" COL7="Inversion" COL8="Offset" COL9="Smooth" COL10="Raw Value" COL11="Link error" COL12="Calibration" COL13="Cal.BEG" COL14="Cal.LOW" COL15="Cal.HGH" COL16="Cal.END" COL17="Log.BEG" COL18="Log.LOW" COL19="Log.HGH" COL20="Log.END" COL21="DZ BEG" COL22="DZ LOW" COL23="DZ HGH" COL24="DZ END" COL25="DZ DYN" COL26="Curve type" COL27="Zoom" COL28="Trim" COL29="Vrt.Inc." COL30="Vrt.Mid." COL31="Vrt.Dec." COL32="Vrt.Step" COL33="Vrt.Reset" COL34="Mix.Axis" COL35="Mix.Mode" COL36="Mix.Prop" COL37="Mix.Begin" COL38="Axis to Button" COL39="AB1" COL40="AB2" COL41="AB3" COL42="AB4" COL43="AB5" COL44="AB6" COL45="AB7" COL46="AB8" COL47="Shift" COL48="Relative"/>
-        <ROW COL0="P1" COL1="X" COL2="30029" COL3="50%" COL4="VPC_Sens" COL5="6" COL6="0" COL7="False" COL8="False" COL9="x2" COL10="53199" COL11="0" COL12="With center" COL13="50271" COL14="53147" COL15="0" COL16="55351" COL17="0" COL18="50" COL19="0" COL20="100" COL21="2" COL22="2" COL23="0" COL24="2" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
-        <ROW COL0="P2" COL1="Y" COL2="30000" COL3="50%" COL4="VPC_Sens" COL5="5" COL6="0" COL7="True" COL8="False" COL9="x2" COL10="32873" COL11="0" COL12="With center" COL13="30493" COL14="32869" COL15="0" COL16="35917" COL17="0" COL18="50" COL19="0" COL20="100" COL21="2" COL22="2" COL23="0" COL24="2" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
-        <ROW COL0="P3" COL1="rY" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="3" COL7="True" COL8="False" COL9="x4" COL10="8256" COL11="0" COL12="With center" COL13="5008" COL14="8320" COL15="0" COL16="10960" COL17="0" COL18="50" COL19="0" COL20="100" COL21="10" COL22="10" COL23="0" COL24="10" COL25="50" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
-        <ROW COL0="P4" COL1="rX" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="4" COL7="True" COL8="False" COL9="x4" COL10="8192" COL11="0" COL12="With center" COL13="4880" COL14="8208" COL15="0" COL16="11296" COL17="0" COL18="50" COL19="0" COL20="100" COL21="10" COL22="10" COL23="0" COL24="10" COL25="50" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
-        <ROW COL0="P5" COL1="Slider" COL2="0" COL3="0%" COL4="VPC_Stick" COL5="1" COL6="2" COL7="False" COL8="False" COL9="x4" COL10="9592" COL11="0" COL12="No center" COL13="9588" COL14="0" COL15="0" COL16="13090" COL17="0" COL18="0" COL19="0" COL20="100" COL21="10" COL22="0" COL23="0" COL24="10" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
-        <ROW COL0="P6" COL1="Z" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="1" COL7="False" COL8="False" COL9="x4" COL10="7794" COL11="0" COL12="With center" COL13="7164" COL14="7796" COL15="0" COL16="8506" COL17="0" COL18="50" COL19="0" COL20="100" COL21="10" COL22="10" COL23="0" COL24="10" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="False" COL40="False" COL41="False" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P1" COL1="X" COL2="30000" COL3="50%" COL4="VPC_Sens" COL5="6" COL6="0" COL7="False" COL8="False" COL9="x2" COL10="53195" COL11="0" COL12="With center" COL13="50271" COL14="53181" COL15="0" COL16="55349" COL17="0" COL18="50" COL19="0" COL20="100" COL21="2" COL22="4" COL23="0" COL24="2" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="33;34;35;---;---;---;---;---;" COL39="True" COL40="True" COL41="True" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P2" COL1="Y" COL2="30000" COL3="50%" COL4="VPC_Sens" COL5="5" COL6="0" COL7="True" COL8="False" COL9="x2" COL10="32837" COL11="0" COL12="With center" COL13="30491" COL14="32867" COL15="0" COL16="35915" COL17="0" COL18="50" COL19="0" COL20="100" COL21="2" COL22="4" COL23="0" COL24="2" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="36;37;38;---;---;---;---;---;" COL39="True" COL40="True" COL41="True" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P3" COL1="rY" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="3" COL7="True" COL8="False" COL9="x4" COL10="8256" COL11="0" COL12="With center" COL13="4976" COL14="8048" COL15="0" COL16="10960" COL17="0" COL18="50" COL19="0" COL20="100" COL21="10" COL22="10" COL23="0" COL24="10" COL25="50" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="39;---;40;---;---;41;---;---;" COL39="True" COL40="False" COL41="True" COL42="False" COL43="False" COL44="True" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P4" COL1="rX" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="4" COL7="True" COL8="False" COL9="x4" COL10="8208" COL11="0" COL12="With center" COL13="4832" COL14="8208" COL15="0" COL16="11312" COL17="0" COL18="50" COL19="0" COL20="100" COL21="10" COL22="10" COL23="0" COL24="10" COL25="50" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="42;---;43;---;---;44;---;---;" COL39="True" COL40="False" COL41="True" COL42="False" COL43="False" COL44="True" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P5" COL1="Slider" COL2="0" COL3="0%" COL4="VPC_Stick" COL5="1" COL6="2" COL7="False" COL8="False" COL9="x4" COL10="9592" COL11="0" COL12="No center" COL13="9584" COL14="0" COL15="0" COL16="13084" COL17="0" COL18="0" COL19="0" COL20="100" COL21="10" COL22="0" COL23="0" COL24="10" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="---;---;---;45;---;46;---;47;" COL39="False" COL40="False" COL41="False" COL42="True" COL43="False" COL44="True" COL45="False" COL46="True" COL47="OFF" COL48="Absolute" COL49="---"/>
+        <ROW COL0="P6" COL1="Z" COL2="30000" COL3="50%" COL4="VPC_Stick" COL5="1" COL6="1" COL7="False" COL8="False" COL9="x2" COL10="7794" COL11="0" COL12="With center" COL13="7170" COL14="7794" COL15="0" COL16="8500" COL17="0" COL18="50" COL19="0" COL20="100" COL21="2" COL22="1" COL23="0" COL24="2" COL25="0" COL26="Disabled" COL27="False" COL28="False" COL29="0" COL30="0" COL31="0" COL32="---" COL33="---" COL34="0" COL35="---" COL36="0" COL37="---" COL38="48;49;50;---;---;---;---;---;" COL39="True" COL40="True" COL41="True" COL42="False" COL43="False" COL44="False" COL45="False" COL46="False" COL47="OFF" COL48="Absolute" COL49="---"/>
         <ROW COL0="P7" COL1="---" COL2="---" COL3="---" COL4="---" COL5="---" COL6="---" COL7="---" COL8="---" COL9="---" COL10="---" COL11="---" COL12="---" COL13="---" COL14="---" COL15="---" COL16="---" COL17="---" COL18="---" COL19="---" COL20="---" COL21="---" COL22="---" COL23="---" COL24="---" COL25="---" COL26="---" COL27="---" COL28="---" COL29="---" COL30="---" COL31="---" COL32="---" COL33="---" COL34="---" COL35="---" COL36="---" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="---" COL40="---" COL41="---" COL42="---" COL43="---" COL44="---" COL45="---" COL46="---" COL47="---" COL48="---" COL49="---"/>
         <ROW COL0="P8" COL1="---" COL2="---" COL3="---" COL4="---" COL5="---" COL6="---" COL7="---" COL8="---" COL9="---" COL10="---" COL11="---" COL12="---" COL13="---" COL14="---" COL15="---" COL16="---" COL17="---" COL18="---" COL19="---" COL20="---" COL21="---" COL22="---" COL23="---" COL24="---" COL25="---" COL26="---" COL27="---" COL28="---" COL29="---" COL30="---" COL31="---" COL32="---" COL33="---" COL34="---" COL35="---" COL36="---" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="---" COL40="---" COL41="---" COL42="---" COL43="---" COL44="---" COL45="---" COL46="---" COL47="---" COL48="---" COL49="---"/>
         <ROW COL0="S1" COL1="---" COL2="---" COL3="---" COL4="---" COL5="---" COL6="---" COL7="---" COL8="---" COL9="---" COL10="---" COL11="---" COL12="---" COL13="---" COL14="---" COL15="---" COL16="---" COL17="---" COL18="---" COL19="---" COL20="---" COL21="---" COL22="---" COL23="---" COL24="---" COL25="---" COL26="---" COL27="---" COL28="---" COL29="---" COL30="---" COL31="---" COL32="---" COL33="---" COL34="---" COL35="---" COL36="---" COL37="---" COL38="---;---;---;---;---;---;---;---;" COL39="---" COL40="---" COL41="---" COL42="---" COL43="---" COL44="---" COL45="---" COL46="---" COL47="---" COL48="---" COL49="---"/>
@@ -276,21 +276,21 @@
             <rgb_mode_0 Name="rgb_mode_0" Type="Color" Data="0" Tag="0"/>
             <rgb_mode_5 Name="rgb_mode_5" Type="Color" Data="0" Tag="0"/>
             <rgb_mode_4 Name="rgb_mode_4" Type="Color" Data="0" Tag="0"/>
-            <rgb_mode_3 Name="rgb_mode_3" Type="Color" Data="0" Tag="0"/>
-            <rgb_mode_2 Name="rgb_mode_2" Type="Color" Data="0" Tag="0"/>
-            <rgb_mode_1 Name="rgb_mode_1" Type="Color" Data="0" Tag="0"/>
-            <btn_mode_1 Name="btn_mode_1" Type="Digit" Data="0"/>
+            <rgb_mode_3 Name="rgb_mode_3" Type="Color" Data="16" Tag="59"/>
+            <rgb_mode_2 Name="rgb_mode_2" Type="Color" Data="0" Tag="59"/>
+            <rgb_mode_1 Name="rgb_mode_1" Type="Color" Data="17" Tag="59"/>
+            <btn_mode_1 Name="btn_mode_1" Type="Digit" Data="1"/>
             <btn_mode_5 Name="btn_mode_5" Type="Digit" Data="0"/>
             <btn_mode_4 Name="btn_mode_4" Type="Digit" Data="0"/>
-            <btn_mode_3 Name="btn_mode_3" Type="Digit" Data="0"/>
-            <btn_mode_2 Name="btn_mode_2" Type="Digit" Data="0"/>
-            <typ_mode_1 Name="typ_mode_1" Type="Select" Data="OFF"/>
-            <typ_mode_2 Name="typ_mode_2" Type="Select" Data="OFF"/>
-            <typ_mode_3 Name="typ_mode_3" Type="Select" Data="OFF"/>
+            <btn_mode_3 Name="btn_mode_3" Type="Digit" Data="3"/>
+            <btn_mode_2 Name="btn_mode_2" Type="Digit" Data="2"/>
+            <typ_mode_1 Name="typ_mode_1" Type="Select" Data="ON"/>
+            <typ_mode_2 Name="typ_mode_2" Type="Select" Data="ON"/>
+            <typ_mode_3 Name="typ_mode_3" Type="Select" Data="ON"/>
             <typ_mode_4 Name="typ_mode_4" Type="Select" Data="OFF"/>
             <typ_mode_5 Name="typ_mode_5" Type="Select" Data="OFF"/>
-            <pov_1 Name="pov_1" Type="Select" Data="OFF"/>
-            <pov_2 Name="pov_2" Type="Select" Data="OFF"/>
+            <pov_1 Name="pov_1" Type="Select" Data="4B8W"/>
+            <pov_2 Name="pov_2" Type="Select" Data="4B8W"/>
             <pov_3 Name="pov_3" Type="Select" Data="OFF"/>
             <pov_4 Name="pov_4" Type="Select" Data="OFF"/>
         </GroupBox_ButtonsModification>
@@ -298,11 +298,19 @@
     <BUTTONS_TABLE>
         <TABLE COLS="5" ROWS="129"/>
         <COL_CAPTION COL0="Logic" COL1="Physical" COL2="Mode" COL3="Shift" COL4="Delay"/>
-        <ROW COL0="Button 1" COL1="001" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 2" COL1="002" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV1 U" COL1="039" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV1 R" COL1="043" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV1 D" COL1="040" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV1 L" COL1="042" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV2 U" COL1="015" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV2 R" COL1="016" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV2 D" COL1="017" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="POV2 L" COL1="018" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 1" COL1="001" COL2="Toggle ON" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 2" COL1="002" COL2="Toggle ON" COL3="OFF" COL4="False" COL5=""/>
         <ROW COL0="Button 3" COL1="003" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 4" COL1="004" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 5" COL1="005" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 4" COL1="004" COL2="Normal" COL3="S1" COL4="False" COL5=""/>
+        <ROW COL0="Button 5" COL1="005" COL2="Normal" COL3="S1" COL4="False" COL5=""/>
         <ROW COL0="Button 6" COL1="006" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
         <ROW COL0="Button 7" COL1="007" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
         <ROW COL0="Button 8" COL1="008" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
@@ -312,43 +320,43 @@
         <ROW COL0="Button 12" COL1="012" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
         <ROW COL0="Button 13" COL1="013" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
         <ROW COL0="Button 14" COL1="014" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 15" COL1="015" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 16" COL1="016" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 17" COL1="017" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 18" COL1="018" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 19" COL1="019" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 20" COL1="020" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 21" COL1="021" COL2="Encoder" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 22" COL1="022" COL2="Encoder" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 23" COL1="023" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 24" COL1="024" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 25" COL1="025" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 26" COL1="026" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 27" COL1="027" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 28" COL1="028" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 29" COL1="029" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 30" COL1="030" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 31" COL1="031" COL2="Short click" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 32" COL1="032" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 33" COL1="031" COL2="Long click" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 34" COL1="034" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 35" COL1="035" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
-        <ROW COL0="Button 36" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 37" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 38" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 39" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 40" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 41" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 42" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 43" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 44" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 45" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 46" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 47" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 48" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 49" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 50" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 51" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
+        <ROW COL0="Button 15" COL1="019" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 16" COL1="020" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 17" COL1="021" COL2="Encoder" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 18" COL1="022" COL2="Encoder" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 19" COL1="023" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 20" COL1="024" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 21" COL1="025" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 22" COL1="026" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 23" COL1="027" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 24" COL1="028" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 25" COL1="029" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 26" COL1="030" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 27" COL1="031" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 28" COL1="032" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 29" COL1="033" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 30" COL1="034" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 31" COL1="035" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 32" COL1="036" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 33" COL1="037" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 34" COL1="038" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 35" COL1="041" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 36" COL1="044" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 37" COL1="045" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 38" COL1="046" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 39" COL1="047" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 40" COL1="048" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 41" COL1="049" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 42" COL1="050" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 43" COL1="047" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 44" COL1="048" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 45" COL1="049" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 46" COL1="050" COL2="Normal" COL3="OFF" COL4="False" COL5=""/>
+        <ROW COL0="Button 47" COL1="004" COL2="Normal" COL3="S2" COL4="False" COL5=""/>
+        <ROW COL0="Button 48" COL1="005" COL2="Normal" COL3="S2" COL4="False" COL5=""/>
+        <ROW COL0="Button 49" COL1="004" COL2="Normal" COL3="S3" COL4="False" COL5=""/>
+        <ROW COL0="Button 50" COL1="005" COL2="Normal" COL3="S3" COL4="False" COL5=""/>
+        <ROW COL0="Button 51" COL1="014" COL2="Toggle ON" COL3="S1" COL4="False" COL5=""/>
         <ROW COL0="Button 52" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
         <ROW COL0="Button 53" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
         <ROW COL0="Button 54" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
@@ -418,14 +426,6 @@
         <ROW COL0="Button 118" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
         <ROW COL0="Button 119" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
         <ROW COL0="Button 120" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 121" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 122" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 123" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 124" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 125" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 126" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 127" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
-        <ROW COL0="Button 128" COL1="---" COL2="---" COL3="---" COL4="---" COL5=""/>
         <ROW COL0="" COL1="" COL2="" COL3="" COL4="" COL5=""/>
     </BUTTONS_TABLE>
     <OUTPUT>
@@ -513,22 +513,22 @@
             <ext_port Name="ext_port" Type="Digit" Data="5"/>
         </GroupBox_LedsOnSlave>
         <GroupBox_SimpleIndication>
-            <rgb_mode_12 Name="rgb_mode_12" Type="Color" Data="0" Tag="0"/>
-            <rgb_mode_11 Name="rgb_mode_11" Type="Color" Data="16" Tag="50"/>
-            <rgb_mode_10 Name="rgb_mode_10" Type="Color" Data="0" Tag="50"/>
-            <rgb_mode_09 Name="rgb_mode_09" Type="Color" Data="17" Tag="50"/>
+            <rgb_mode_12 Name="rgb_mode_12" Type="Color" Data="4" Tag="52"/>
+            <rgb_mode_11 Name="rgb_mode_11" Type="Color" Data="21" Tag="51"/>
+            <rgb_mode_10 Name="rgb_mode_10" Type="Color" Data="3" Tag="53"/>
+            <rgb_mode_09 Name="rgb_mode_09" Type="Color" Data="3" Tag="50"/>
             <rgb_mode_16 Name="rgb_mode_16" Type="Color" Data="0" Tag="0"/>
             <rgb_mode_15 Name="rgb_mode_15" Type="Color" Data="0" Tag="0"/>
             <rgb_mode_14 Name="rgb_mode_14" Type="Color" Data="0" Tag="0"/>
             <rgb_mode_13 Name="rgb_mode_13" Type="Color" Data="0" Tag="0"/>
             <typ_mode_12 Name="typ_mode_12" Type="Select" Data="OFF"/>
-            <btn_mode_12 Name="btn_mode_12" Type="Digit" Data="0"/>
-            <typ_mode_11 Name="typ_mode_11" Type="Select" Data="ON"/>
-            <btn_mode_11 Name="btn_mode_11" Type="Digit" Data="3"/>
+            <btn_mode_12 Name="btn_mode_12" Type="Digit" Data="34"/>
+            <typ_mode_11 Name="typ_mode_11" Type="Select" Data="OFF"/>
+            <btn_mode_11 Name="btn_mode_11" Type="Digit" Data="37"/>
             <typ_mode_10 Name="typ_mode_10" Type="Select" Data="ON"/>
-            <btn_mode_10 Name="btn_mode_10" Type="Digit" Data="2"/>
+            <btn_mode_10 Name="btn_mode_10" Type="Digit" Data="5"/>
             <typ_mode_09 Name="typ_mode_09" Type="Select" Data="ON"/>
-            <btn_mode_09 Name="btn_mode_09" Type="Digit" Data="1"/>
+            <btn_mode_09 Name="btn_mode_09" Type="Digit" Data="4"/>
             <typ_mode_16 Name="typ_mode_16" Type="Select" Data="OFF"/>
             <btn_mode_16 Name="btn_mode_16" Type="Digit" Data="0"/>
             <typ_mode_15 Name="typ_mode_15" Type="Select" Data="OFF"/>
@@ -558,7 +558,7 @@
             <dev_delay Name="dev_delay" Type="Select" Data="2 sec"/>
             <dev_name Name="dev_name" Type="Text" Data="VPC ALPHA PRIME"/>
             <dev_vid Name="dev_vid" Type="Text" Data="3344"/>
-            <dev_pid Name="dev_pid" Type="Text" Data="38137"/>
+            <dev_pid Name="dev_pid" Type="Text" Data="0137"/>
         </GroupBox_ProfileUSB>
         <GroupBox_ResetSession>
             <osi_rst_knp Name="osi_rst_knp" Type="Digit" Data="0"/>
