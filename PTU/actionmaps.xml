@@ -6,11 +6,11 @@
   <options type="gamepad" instance="1" Product="Controller (Gamepad)">
    <flight_view exponent="1"/>
   </options>
-  <options type="joystick" instance="1" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
-  <options type="joystick" instance="2" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
-  <options type="joystick" instance="3"/>
-  <options type="joystick" instance="4"/>
-  <options type="joystick" instance="5"/>
+  <options type="joystick" instance="1" Product="RIGHT VPC ALPHA PRIME  {41383344-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="2" Product="Clubsport Pedals  {18390EB7-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="3" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="4" Product="vJoy Device  {BEAD1234-0000-0000-0000-504944564944}"/>
+  <options type="joystick" instance="5" Product="Thrustmaster T300RS Racing Wheel  {B66E044F-0000-0000-0000-504944564944}"/>
   <options type="joystick" instance="6"/>
   <options type="joystick" instance="7"/>
   <options type="joystick" instance="8"/>
