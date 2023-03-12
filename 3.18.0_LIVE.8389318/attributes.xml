@@ -43,7 +43,7 @@
  <Attr name="HeadtrackingInactivityTime" value="2"/>
  <Attr name="HeadtrackingThirdPersonDisableDuringInventory" value="0"/>
  <Attr name="HeadtrackingToggleAutoCalibrate" value="0"/>
- <Attr name="Height" value="1200"/>
+ <Attr name="Height" value="1078"/>
  <Attr name="HoldToggleZoom" value="1"/>
  <Attr name="IgnoreWindowFocus" value="1"/>
  <Attr name="InteractionHighlightMode" value="1"/>
@@ -115,7 +115,7 @@
  <Attr name="WeaponGimbalDefaultModeSpaceship" value="1"/>
  <Attr name="WeaponPipCombination" value="0"/>
  <Attr name="WeaponPipLeadLagType" value="1"/>
- <Attr name="Width" value="1920"/>
+ <Attr name="Width" value="5765"/>
  <Attr name="WindowMode" value="2"/>
  <Attr name="selectedShipGEID" value="373896461558"/>
 </Attributes>
