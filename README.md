@@ -2,7 +2,7 @@
 
 My Star Citizen HOSAS config for left and right VPC Constellation Alpha Prime grips, with MongoosT-50CM2 bases.
 
-That binds physicals buttons and axis into one  never unplugged virtual joystick.
+That binds physicals buttons and axis into one never unplugged virtual joystick.
 So SC won’t invert joysticks or refuse to work with when you unplug USB stuff.
 
 # Require
@@ -11,9 +11,9 @@ So SC won’t invert joysticks or refuse to work with when you unplug USB stuff.
 
 I have some specific hardware, with multiples pedals.
 
-* Thrustmaster T300RS with ferrari addon wheel.
+* Thrustmaster T300RS with Ferrari F1 Add-On.
 * Fanatec clubsport pedals v2.
-* VPC Alpha prime with 50CM2 bases:
+* VPC Alpha prime left and right, with 50CM2 bases:
 
 https://virpil-controls.eu/vpc-constellation-alpha-prime-l.html
 
