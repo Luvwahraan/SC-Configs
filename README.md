@@ -5,6 +5,8 @@ My Star Citizen HOSAS config for left and right VPC Constellation Alpha Prime gr
 That binds physicals buttons and axis into one never unplugged virtual joystick.
 So SC won’t invert joysticks or refuse to work with when you unplug USB stuff.
 
+Since SC is broken at moment, I didn’t test all of this yet.
+
 # Require
 
 ## Hardware
@@ -35,7 +37,7 @@ Maybe standard alpha prime grips fits, but I don’t own them.
 
 ### Virpil
 
-Profiles for with my specifics hardware (Alpha prime + 50CM2).
+Profiles for my specific hardware (Alpha prime + 50CM2).
 That’s need to be imported in VPC Configuration Tool.
 
 ### LIVE or PTU
@@ -51,5 +53,12 @@ That’s some template to get all possible action names.
 
 ### JoystickGremlin
 
-Gremlin’s profiles.
+Gremlin’s profiles and plugins.
+
+### MultiplyAyis
+
+This plugin binds one physical -1 to +1 axis to half virtual axis (so 0 to -1), and other half (0 to 1) to same physical axis with some modifier.
+
+
+
 
