@@ -11,17 +11,21 @@ So SC won’t invert joysticks or refuse to work with when you unplug USB stuff.
 
 I have some specific hardware, with multiples pedals.
 
-* Thrustmaster T300RS with ferrari addon wheel.
+* Thrustmaster T3PA with ferrari T.RJ12 Adapter.
 * Fanatec clubsport pedals v2.
-* VPC Alpha prime with 50CM2 bases:
+* VPC Constellation Alpha prime left and right
+    * https://virpil-controls.eu/vpc-constellation-alpha-prime-l.html
+    * https://virpil-controls.eu/vpc-constellation-alpha-prime-r.html
+* VPC Flightstick Z-Extension left and right
+    * https://virpil-controls.eu/vpc-flightstick-z-extension.html
+* 50CM2 bases
+    * https://virpil-controls.eu/vpc-mongoost-50cm-base.html
+* VPC Control Panel #1 slaved on right base
+* VPC Control Panel #2 slaved on left base.
+    * https://virpil-controls.eu/vpc-control-panel-1.html
+    * https://virpil-controls.eu/vpc-control-panel-2.html
 
-https://virpil-controls.eu/vpc-constellation-alpha-prime-l.html
-
-https://virpil-controls.eu/vpc-constellation-alpha-prime-r.html
-
-https://virpil-controls.eu/vpc-mongoost-50cm-base.html
-
-Maybe standard alpha prime grips fits, but I don’t own them.
+Maybe standard Constellation alpha grips fits, but I don’t own them.
 
 ## Software
 
@@ -35,7 +39,7 @@ Maybe standard alpha prime grips fits, but I don’t own them.
 
 ### Virpil
 
-Profiles for with my specifics hardware (Alpha prime + 50CM2).
+Profiles for with my specifics hardware.
 That’s need to be imported in VPC Configuration Tool.
 
 ### LIVE or PTU
