@@ -2,8 +2,8 @@
 
 My Star Citizen HOSAS config for left and right VPC Constellation Alpha Prime grips, with MongoosT-50CM2 bases.
 
-That binds physicals buttons and axis into one  never unplugged virtual joystick.
-So SC won’t invert joysticks or refuse to work with when you unplug USB stuff.
+That binds physicals buttons and axis into one never unplugged virtual joystick.
+So SC won’t invert joysticks or refuse to work with when I unplug USB stuff.
 
 # Require
 
@@ -57,3 +57,6 @@ That’s some template to get all possible action names.
 
 Gremlin’s profiles.
 
+## Notes
+
+Diagram genarated with [Joystick Diagram] (https://github.com/Rexeh/joystick-diagrams/)
