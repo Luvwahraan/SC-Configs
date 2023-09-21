@@ -79,7 +79,7 @@
  <Attr name="ShowContactNeutralHostileNameplate" value="1"/>
  <Attr name="ShowEmissionsText" value="1"/>
  <Attr name="ShowHints" value="0"/>
- <Attr name="SpeedThrottleDefaultFixedSpeed" value="5.58"/>
+ <Attr name="SpeedThrottleDefaultFixedSpeed" value="5"/>
  <Attr name="SysSpecPlanetVolumetricClouds" value="4"/>
  <Attr name="TerrainTessDistance" value="50"/>
  <Attr name="TobiiHeadPositionScale" value="3"/>
@@ -98,10 +98,19 @@
  <Attr name="WeaponPipLeadLagType" value="1"/>
  <Attr name="Width" value="5760"/>
  <Attr name="WindowMode" value="2"/>
- <Attr name="selectedShipURN" value="urn:sc:global:entitlement:uuid:2b406650-71fc-5546-8387-e7e5b1b4f650"/>
+ <Attr name="selectedShipURN" value="urn:sc:global:entitlement:uuid:a1244555-bc7b-5b79-9a9f-a026a1a2a99e"/>
  <Attr name="selectedShipURN_EA_BattleRoyale" value="urn:sc:global:entitlement:uuid:35c3e5db-0a4e-5d09-bd6f-38738658a831"/>
- <Attr name="selectedShipURN_EA_ClassicRace" value=""/>
+ <Attr name="selectedShipURN_EA_ClassicRace" value="urn:sc:global:entitlement:uuid:a1244555-bc7b-5b79-9a9f-a026a1a2a99e"/>
+ <Attr name="selectedShipURN_EA_Duel" value="urn:sc:global:entitlement:uuid:35c3e5db-0a4e-5d09-bd6f-38738658a831"/>
  <Attr name="selectedShipURN_EA_Elimination" value=""/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_1" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_3" value="urn:sc:communal:entitlement::b8a352bb-74a8-415b-9e08-77f684ac91b8"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_4" value="urn:sc:communal:entitlement::b8a352bb-74a8-415b-9e08-77f684ac91b8"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_6" value="urn:sc:communal:entitlement::96b11061-68ce-4896-9424-fc8804a410ae"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_7" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_8" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
  <Attr name="selectedShipURN_EA_FreeFlight" value="urn:sc:global:entitlement:uuid:2b406650-71fc-5546-8387-e7e5b1b4f650"/>
  <Attr name="selectedShipURN_EA_PirateSwarm" value="urn:sc:global:entitlement:uuid:35c3e5db-0a4e-5d09-bd6f-38738658a831"/>
+ <Attr name="selectedShipURN_EA_SquadronBattle" value="urn:sc:global:entitlement:uuid:35c3e5db-0a4e-5d09-bd6f-38738658a831"/>
+ <Attr name="selectedShipURN_EA_VanduulSwarm" value="urn:sc:global:entitlement:uuid:a1244555-bc7b-5b79-9a9f-a026a1a2a99e"/>
 </Attributes>

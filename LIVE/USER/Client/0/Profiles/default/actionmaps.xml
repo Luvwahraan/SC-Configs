@@ -45,7 +45,7 @@
     <rebind input="js1_button3"/>
    </action>
    <action name="v_view_look_behind">
-    <rebind input="js3_button17"/>
+    <rebind input="js3_button11"/>
    </action>
   </actionmap>
   <actionmap name="spaceship_general">
@@ -236,11 +236,8 @@
    <action name="v_look_ahead_enable">
     <rebind input="js1_"/>
    </action>
-   <action name="v_target_lock_selected">
-    <rebind input="js1_button30"/>
-   </action>
    <action name="v_target_pin_selected">
-    <rebind input="js1_button29"/>
+    <rebind input="js3_button14"/>
    </action>
    <action name="v_target_toggle_lock_index_1">
     <rebind input="js1_button9"/>
@@ -251,15 +248,12 @@
    <action name="v_target_toggle_lock_index_3">
     <rebind input="js1_button10"/>
    </action>
-   <action name="v_target_tracking_auto_zoom">
-    <rebind input="js1_button28"/>
-   </action>
    <action name="v_target_unlock_selected">
     <rebind input="js1_"/>
     <addbind input="js1_button23"/>
    </action>
    <action name="v_target_unpin_selected_hold">
-    <rebind input="js1_button29"/>
+    <rebind input="js3_button14"/>
    </action>
   </actionmap>
   <actionmap name="spaceship_targeting_advanced">
@@ -275,19 +269,36 @@
    <action name="v_target_cycle_in_view_reset">
     <rebind input="js1_button25"/>
    </action>
+   <action name="v_target_cycle_pinned_back">
+    <rebind input="js3_button17"/>
+   </action>
    <action name="v_target_cycle_pinned_fwd">
+    <rebind input="js3_button9"/>
+   </action>
+   <action name="v_target_cycle_pinned_reset">
+    <rebind input="js3_button18"/>
+   </action>
+   <action name="v_target_cycle_subitem_back">
+    <rebind input="js1_button29"/>
+   </action>
+   <action name="v_target_cycle_subitem_fwd">
     <rebind input="js1_button30"/>
    </action>
    <action name="v_target_cycle_subitem_reset">
     <rebind input="js1_button28"/>
    </action>
   </actionmap>
+  <actionmap name="spaceship_target_hailing">
+   <action name="v_target_hail">
+    <rebind input="js3_button16"/>
+   </action>
+  </actionmap>
   <actionmap name="spaceship_radar">
    <action name="v_dec_ping_focus_angle">
-    <rebind input="js2_button30"/>
+    <rebind input="js3_button30"/>
    </action>
    <action name="v_inc_ping_focus_angle">
-    <rebind input="js2_button29"/>
+    <rebind input="js3_button29"/>
    </action>
    <action name="v_invoke_ping">
     <rebind input="js3_button28"/>
@@ -296,11 +307,11 @@
   <actionmap name="spaceship_scanning">
    <action name="v_dec_scan_focus_level">
     <rebind input="js1_"/>
-    <addbind input="js1_button112"/>
+    <addbind input="js1_button29"/>
    </action>
    <action name="v_inc_scan_focus_level">
     <rebind input="js1_"/>
-    <addbind input="js1_button113"/>
+    <addbind input="js1_button30"/>
    </action>
    <action name="v_scanning_trigger_scan">
     <rebind input="js1_button95"/>
@@ -415,13 +426,7 @@
    </action>
   </actionmap>
   <actionmap name="spaceship_missiles">
-   <action name="v_weapon_cycle_missile_back">
-    <rebind input="js1_button16"/>
-   </action>
    <action name="v_weapon_cycle_missile_fwd">
-    <rebind input="js1_button18"/>
-   </action>
-   <action name="v_weapon_decrease_max_missiles">
     <rebind input="js1_button17"/>
    </action>
    <action name="v_weapon_increase_max_missiles">
